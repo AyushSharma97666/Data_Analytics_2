@@ -183,8 +183,8 @@ ax= df_6.plot.barh(x='Grouped disease', y='count')
 
 ## Share
 
-After analyzing, who can predicate people can have or grow lung cancer due different attribute and risk of have lung cancer.So the people can take the appropriate decision based on their cancer risk status.
-**Following are findings:-**
+After analyzing, who can predicate people can have or grow lung cancer due different attribute and risk of have lung cancer.So the people can take the appropriate decision based on their cancer risk status.   
+**Following are insides:-**
 - Patient have attribute these SMOKING ,WHEEZING, ALCOHOL CONSUMING COUGHING, SHORTNESS OF BREATH, CHEST PAIN  are most. 
 - There is small difference in gender those have Lung Cancer, so we can say that, it not gender affectes due to gender
 - People have age above 50 are more vulnerable to the disease, data shows 94% patients have the disease and there is age above 50.
